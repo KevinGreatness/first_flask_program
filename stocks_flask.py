@@ -2,7 +2,7 @@
 """
 Created on Fri May  2 11:03:35 2025
 
-Creates a web server that can output stock information tot he user.
+Creates a web server that can output stock information to the user.
 
 @author: Kevin Grolemund
 """
